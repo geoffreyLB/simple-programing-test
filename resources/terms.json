@@ -1,0 +1,10 @@
+{
+    "snake_case": [
+        "how_are_you",
+        "HOW_ARE_YOU"
+    ],
+    "camelCase": [
+        "howAreYou",
+        "HowAreYou"
+    ]
+}
