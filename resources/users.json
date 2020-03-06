@@ -1,0 +1,74 @@
+[
+    {
+        "firstName": "Lettie",
+        "lastName": "Torres",
+        "age": 34,
+        "gender": "f",
+        "address": "Paris, France",
+        "softSkills": ["Cooperative", "Friendly", "Respectful"],
+        "score": 213
+    },
+    {
+        "firstName": "Miguel",
+        "lastName": "Harrison",
+        "age": 22,
+        "gender": "m",
+        "address": "London, United Kingdom",
+        "softSkills": ["Friendly", "Honest"],
+        "score": 1435
+    },
+    {
+        "firstName": "Boris",
+        "lastName": "Steele",
+        "age": 47,
+        "gender": "m",
+        "address": null,
+        "softSkills": ["Enthusiastic", "Courteous", "Patient"],
+        "score": 421
+    },
+    {
+        "firstName": "Maud",
+        "lastName": "Ramos",
+        "age": 28,
+        "gender": "f",
+        "address": "New-York, USA",
+        "softSkills": null,
+        "score": 789
+    },
+    {
+        "firstName": "Nell",
+        "lastName": "Reeves",
+        "age": 56,
+        "gender": "m",
+        "address": "Boston, USA",
+        "softSkills": ["Courteous"],
+        "score": 3415
+    },
+    {
+        "firstName": "Gregory",
+        "lastName": "Fox",
+        "age": 21,
+        "gender": "m",
+        "address": null,
+        "softSkills": ["Honest", "Cooperative"],
+        "score": 4532
+    },
+    {
+        "firstName": "Lucinda",
+        "lastName": "Mendoza",
+        "age": 39,
+        "gender": "f",
+        "address": "Toulouse, France",
+        "softSkills": ["Friendly"],
+        "score": 146
+    },
+    {
+        "firstName": "Bob",
+        "lastName": "Morgan",
+        "age": 29,
+        "gender": "m",
+        "address": "Bordeau, France",
+        "softSkills": ["Enthusiastic", "Courteous"],
+        "score": 269
+    }
+]
